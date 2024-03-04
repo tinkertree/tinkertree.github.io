@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microscope Magic - Pond Life"
-author: "Lily & Jeff Poznanovic"
+author: "Lily & Jeff"
 categories: microscope
 tags: [microscope]
 image: microscope-pond-life.png

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Welcome to TinkerTree"
-author: "Lily & Jeff Poznanovic"
-categories: facts
-tags: [sample]
+author: "Lily & Jeff"
+categories: website
+tags: [website]
 image: tinkertree-wide.png
 ---
 

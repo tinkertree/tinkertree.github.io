@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-TinkerTree is a growing project for exploration of the natural and technological world.
+TinkerTree is a project from the Poznanovic family, where we explore the fascinating natural and technological world.
 
-Please feel free to reach out to us via each post's comment section. We appreciate all of your questions and comments!
+Please feel free to reach out to us via each post - we appreciate all of your questions and comments!

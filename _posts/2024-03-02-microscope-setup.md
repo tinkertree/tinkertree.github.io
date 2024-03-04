@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microscope Magic - Setup"
-author: "Lily & Jeff Poznanovic"
+author: "Lily & Jeff"
 categories: microscope
 tags: [microscope]
 image: microscope-setup-1.png
