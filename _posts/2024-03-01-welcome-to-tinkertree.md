@@ -4,7 +4,7 @@ title: "Welcome to TinkerTree"
 author: "Lily & Jeff"
 categories: website
 tags: [website]
-image: tinkertree-wide.png
+image: 2024-03-01-welcome-to-tinkertree/tinkertree-wide.png
 ---
 
 Welcome to TinkerTree, where our family's curiosity branches out into the realms of nature, science, and technology. 

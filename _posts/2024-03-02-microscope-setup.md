@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Microscope Magic - Setup"
+title: "Microscope Magic - Basic Setup"
 author: "Lily & Jeff"
 categories: microscope
 tags: [microscope]
-image: microscope-setup-1.png
+image: 2024-03-02-microscope-setup/microscope-setup-1.png
 ---
 
 Here's our digital compound microscope configuration:
