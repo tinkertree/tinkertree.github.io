@@ -1,4 +1,7 @@
-# The MIT License (MIT)
+# License - Theme
+The MIT License outlined below applies exclusively to the Jekyll Millennial theme used in this project.
+
+## The MIT License (MIT)
 
 Copyright (c) 2021 Paul Le
 
