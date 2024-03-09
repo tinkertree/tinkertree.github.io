@@ -12,10 +12,10 @@ Here's our digital compound microscope configuration:
 * Swift SW380T Compound Microscope - [review](https://www.microbehunter.com/swift-sw380t/) 
 
 Why'd we pick this one? The main points:
-* good value
-* decent optics
-* stable design
-* trinocular for use with a camera
+* Good value
+* Decent optics
+* Stable, quality design
+* Trinocular for use with a camera
 
 And some additional misc items:
 
