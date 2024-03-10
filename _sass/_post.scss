@@ -3,6 +3,12 @@
   display: block;
   margin: 10px auto 10px;
 }
+.post-content img {
+  max-width: 95%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 .post-date {
   display: block;
   margin-bottom: 1rem;
@@ -21,12 +27,6 @@
     display: block;
     margin: 10px auto 10px;
   }
-  .post-content img {
-    max-width: 65%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
   .featured-image img {
     align: middle;
     margin: 5px auto 25px;
@@ -40,25 +40,11 @@
     display: block;
     margin: 10px auto 10px;
   }
-  .post-content img {
-    max-width: 95%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
   .featured-image img {
     align: middle;
     margin: 5px auto 25px;
     display: block;
     max-width: 95vw;
-  }
-}
-@media (max-width: $phone-width) {
-  .post-content img {
-    max-width: 98%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
   }
 }
 .post-share {
