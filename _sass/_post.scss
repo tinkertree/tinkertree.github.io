@@ -41,6 +41,13 @@
     max-width: 95vw;
   }
 }
+@media (max-width: $phone-width) {
+  .post-content {
+    width: 95vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+}
 .post-share {
   padding-bottom: 1rem;
 }
